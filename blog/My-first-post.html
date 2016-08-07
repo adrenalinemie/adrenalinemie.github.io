@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"
->
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
     <title>My first post - Adrenalinemie</title>
     <!-- Using the latest rendering mode for IE -->
@@ -29,7 +28,7 @@
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="https://adrenalinemie.github.io/theme/css/bootstrap.flatly.min.css" type="text/css"/>
+        <link rel="stylesheet" href="https://adrenalinemie.github.io/theme/css/bootstrap.paper.min.css" type="text/css"/>
     <link href="https://adrenalinemie.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="https://adrenalinemie.github.io/theme/css/pygments/native.css" rel="stylesheet">
@@ -39,21 +38,20 @@
 
         <link href="https://adrenalinemie.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="Adrenalinemie ATOM Feed"/>
+
         <link href="https://adrenalinemie.github.io/feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
               title="Adrenalinemie RSS Feed"/>
+
+
+        <link href="https://adrenalinemie.github.io/feeds/misc.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Adrenalinemie misc ATOM Feed"/>
 
 </head>
 <body>
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
+	<div class="container-fluid">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
             <a href="https://adrenalinemie.github.io/" class="navbar-brand">
 Adrenalinemie            </a>
         </div>
@@ -62,11 +60,10 @@ Adrenalinemie            </a>
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li><span>
-                <form class="navbar-search" action="/search">
+                <form class="navbar-search" action="/search.html">
                   <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
                 </form></span>
               </li>
-              <li><a href="https://adrenalinemie.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -74,10 +71,9 @@ Adrenalinemie            </a>
 </div> <!-- /.navbar -->
 <!-- Banner -->
 <!-- End Banner -->
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <div class="col-sm-9">
-
     <section id="content">
         <article>
             <header class="page-header">
@@ -101,6 +97,8 @@ Adrenalinemie            </a>
             <span class="modified">
                 <i class="fa fa-calendar"></i><time datetime="2014-12-23T17:49:00+00:00"> Tue 23 December 2014</time>
             </span>
+
+
             <span class="label label-default">By</span>
             <a href="https://adrenalinemie.github.io/author/adrien.html"><i class="fa fa-user"></i> Adrien</a>
 
@@ -127,22 +125,55 @@ Adrenalinemie            </a>
 <iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/dRTxc/embed"></iframe>
             </div>
             <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'adrenalinemie'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'My-first-post';
+                var disqus_url = 'https://adrenalinemie.github.io/blog/My-first-post.html';
+
+            var disqus_config = function () {
+                this.language = "en";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
         </article>
     </section>
 
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
-
+<div id="aboutme">
+    <p>
+        <strong>About Adrien and Melanie</strong><br/>
+        Melanie and Adrien, Made in France, Settled in the UK, but forever Travellers
+    </p>
+</div>
 <section class="well well-sm">
     <ul class="list-group list-group-flush">
 
 
 
-            <li class="list-group-item"><a href="https://adrenalinemie.github.io/tags.html"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                <ul class="list-group list-inline tagcloud" id="tags">
-                </ul>
-            </li>
+
+
     </ul>
 </section>
             </aside>
@@ -150,15 +181,15 @@ Adrenalinemie            </a>
     </div>
 </div>
 <footer>
-   <div class="container">
+   <div class="container-fluid">
       <hr>
       <div class="row">
          <div class="col-xs-10">&copy; 2014 Adrien and Melanie
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
     Content
-  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, except where indicated otherwise.
 </small></p>
          </div>
          <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -174,6 +205,38 @@ Adrenalinemie            </a>
 <script src="https://adrenalinemie.github.io/theme/js/respond.min.js"></script>
 
     <script src="https://adrenalinemie.github.io/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'adrenalinemie'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-57430133-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 
 </body>
 </html>
