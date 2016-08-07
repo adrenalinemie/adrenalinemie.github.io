@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Adrenalinemie</title><link href="https://adrenalinemie.github.io/" rel="alternate"></link><link href="https://adrenalinemie.github.io/feeds/adrien.atom.xml" rel="self"></link><id>https://adrenalinemie.github.io/</id><updated>2014-12-23T17:49:00+00:00</updated><entry><title>My first post</title><link href="https://adrenalinemie.github.io/blog/My-first-post.html" rel="alternate"></link><published>2014-12-23T17:49:00+00:00</published><author><name>Adrien</name></author><id>tag:adrenalinemie.github.io,2014-12-23:blog/My-first-post.html</id><summary type="html">&lt;h2&gt;King&amp;#8217;s&amp;nbsp;Lynn&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adrenalinemie</title><link href="https://adrenalinemie.github.io/" rel="alternate"></link><link href="https://adrenalinemie.github.io/feeds/adrien.atom.xml" rel="self"></link><id>https://adrenalinemie.github.io/</id><updated>2014-12-23T17:49:00+00:00</updated><entry><title>My first post</title><link href="https://adrenalinemie.github.io/blog/My-first-post.html" rel="alternate"></link><published>2014-12-23T17:49:00+00:00</published><author><name>Adrien</name></author><id>tag:adrenalinemie.github.io,2014-12-23:blog/My-first-post.html</id><summary type="html">&lt;h3&gt;King&amp;#8217;s&amp;nbsp;Lynn&lt;/h3&gt;
 &lt;blockquote class="imgur-embed-pub" lang="en" data-id="a/1tClv"&gt;&lt;a href="//imgur.com/1tClv"&gt;King&amp;#39;s Linn&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
 
-&lt;h2&gt;Norfolk Coast&amp;nbsp;path&lt;/h2&gt;
+&lt;h3&gt;Norfolk Coast&amp;nbsp;path&lt;/h3&gt;
 &lt;blockquote class="imgur-embed-pub" lang="en" data-id="a/roeFF"&gt;&lt;a href="//imgur.com/roeFF"&gt;Norfolk coast path&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;h3&gt;Norwich&lt;/h3&gt;
+&lt;blockquote class="imgur-embed-pub" lang="en" data-id="a/GJM7g"&gt;&lt;a href="//imgur.com/GJM7g"&gt;Norwich&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;</summary><category term="first"></category><category term="misc"></category></entry></feed>
