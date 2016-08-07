@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Adrenalinemie</title><link>http://adrenalinemie.github.io/</link><description></description><lastBuildDate>Sun, 07 Aug 2016 16:45:26 +0100</lastBuildDate><item><title>My first post</title><link>http://adrenalinemie.github.io/blog/my-first-post.html</link><description>&lt;p&gt;Date: 2014-12-23&amp;nbsp;17:49&lt;/p&gt;
+<rss version="2.0"><channel><title>Adrenalinemie</title><link>http://adrenalinemie.github.io/</link><description></description><lastBuildDate>Sun, 07 Aug 2016 16:56:18 +0100</lastBuildDate><item><title>My first post</title><link>http://adrenalinemie.github.io/blog/my-first-post.html</link><description>&lt;p&gt;Date: 2014-12-23&amp;nbsp;17:49&lt;/p&gt;
 &lt;p&gt;Modified: 2014-12-23&amp;nbsp;17:49&lt;/p&gt;
 &lt;p&gt;Category:&amp;nbsp;misc&lt;/p&gt;
 &lt;p&gt;Tags: first,&amp;nbsp;misc&lt;/p&gt;
@@ -8,9 +8,12 @@
 &lt;p&gt;Summary: Short version of my first blog&amp;nbsp;post&lt;/p&gt;
 &lt;p&gt;This is my &lt;strong&gt;first blog post with&amp;nbsp;pelican&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;test imgur gallery&amp;nbsp;:&lt;/p&gt;
+&lt;iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/dRTxc/embed"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The xxxx is your album &lt;span class="caps"&gt;ID&lt;/span&gt;.&lt;/p&gt;
 &lt;blockquote class="imgur-embed-pub" lang="en" data-id="a/dRTxc"&gt;&lt;a href="//imgur.com/dRTxc"&gt;Norfolk&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
 
 &lt;p&gt;test youtube video&amp;nbsp;:&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1J2vfFu1E70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrien and Melanie</dc:creator><pubDate>Sun, 07 Aug 2016 16:45:26 +0100</pubDate><guid isPermaLink="false">tag:adrenalinemie.github.io,2016-08-07:blog/my-first-post.html</guid></item></channel></rss>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1J2vfFu1E70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrien and Melanie</dc:creator><pubDate>Sun, 07 Aug 2016 16:56:18 +0100</pubDate><guid isPermaLink="false">tag:adrenalinemie.github.io,2016-08-07:blog/my-first-post.html</guid></item></channel></rss>
