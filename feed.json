@@ -1,0 +1,89 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oscar on a bicycle",
+    "description": "",
+    "home_page_url": "https://adrenalinemie.github.io",
+    "feed_url": "https://adrenalinemie.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://adrenalinemie.github.io/media/website/OOAB_logo.png",
+    "author": {
+        "name": "Adrien and Melanie"
+    },
+    "items": [
+        {
+            "id": "https://adrenalinemie.github.io/the-journey-to-scotland.html",
+            "url": "https://adrenalinemie.github.io/the-journey-to-scotland.html",
+            "title": "The journey to Scotland",
+            "summary": " ",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_101320.jpg\" data-size=\"3000x4000\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_101320-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_122418.jpg\" data-size=\"4000x3000\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_122418-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_130704.jpg\" data-size=\"3000x4000\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_130704-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_133200.jpg\" data-size=\"2448x3264\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_133200-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_141135.jpg\" data-size=\"4000x3000\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_141135-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_151140.jpg\" data-size=\"3000x4000\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_151140-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/DSC01776.JPG\" data-size=\"4896x3672\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/DSC01776-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_175210.jpg\" data-size=\"4000x3000\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_175210-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_182752.jpg\" data-size=\"4000x3000\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/9/gallery/IMG_20200905_182752-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Adrien and Melanie"
+            },
+            "tags": [
+                   "Scotland 2020"
+            ],
+            "date_published": "2020-10-06T22:34:20+01:00",
+            "date_modified": "2020-10-06T22:41:24+01:00"
+        },
+        {
+            "id": "https://adrenalinemie.github.io/why-we-cycle-with-a-toddler.html",
+            "url": "https://adrenalinemie.github.io/why-we-cycle-with-a-toddler.html",
+            "title": "Why we cycle (with a toddler) ?",
+            "author": {
+                "name": "Adrien and Melanie"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-04T22:33:30+01:00",
+            "date_modified": "2020-10-04T22:33:30+01:00"
+        },
+        {
+            "id": "https://adrenalinemie.github.io/through-the-north-highlands.html",
+            "url": "https://adrenalinemie.github.io/through-the-north-highlands.html",
+            "title": "Step 3: Through the Northern Highlands",
+            "summary": "Within this region, somewhere between Ullapool and Assynt lies an intriguing, invisible boundary that separates the colloquial ‘north’ from the true Highland north",
+            "content_html": "<p><strong class=\"calibre4\">Within this region, somewhere between Ullapool and Assynt lies an intriguing, invisible boundary that separates the colloquial ‘north’ from the true Highland north</strong></p>",
+            "image": "https://adrenalinemie.github.io/media/posts/6/DSC02024.JPG",
+            "author": {
+                "name": "Adrien and Melanie"
+            },
+            "tags": [
+                   "Scotland 2020"
+            ],
+            "date_published": "2020-10-04T22:08:23+01:00",
+            "date_modified": "2020-10-04T22:38:19+01:00"
+        },
+        {
+            "id": "https://adrenalinemie.github.io/the-outer-hebrides.html",
+            "url": "https://adrenalinemie.github.io/the-outer-hebrides.html",
+            "title": "Step 2: The Outer Hebrides ",
+            "summary": "The southern half of the Outer Hebrides is made up of a long chain of diverse islands. The Uists, which seem more water than land, are joined by a causeway, as is little Eriskay. Lying not far south of them, Barra and the Barra Isles are reached by ferry. These&hellip;",
+            "content_html": "<p id=\"calibre_pb_2\" class=\"noindentp\"><strong class=\"calibre4\">The southern half of the Outer Hebrides is made up of a long chain of diverse islands. The Uists, which seem more water than land, are joined by a causeway, as is little Eriskay. Lying not far south of them, Barra and the Barra Isles are reached by ferry.</strong></p>\n<p class=\"noindenta\">These beautiful remote isles are world famous for their spectacular beaches. Some are vast and stretch on for miles, like West Beach on Berneray and Tràigh Eais on Barra, and here you can take cover below high dunes and enjoy watching dramatic waves on stormy days. Others are more sheltered bays, like the Prince’s Strand on Eriskay and the east beach on Vatersay, where you can enjoy picnics or wild swimming in the clear, luminescent water.</p>\n<p class=\"noindenta\">On North Uist the landscape of wild peat moors and cultivated crofts is a maze of innumerable trout-filled lochs and inlets – more than half the ‘land’ here is water. Further down the chain, South Uist is a rugged and mountainous island where long sea lochs indent the east coast. In the summer months there is an explosion of colourful wildflowers on the machair plains of these islands. Carpets of harebells, clovers and orchids bloom, and long coastal grasses grow despite often hostile weather conditions. If fauna rather than flora is what you seek, you will find an impressive variety of native and visiting birds both on- and offshore and at the RSPB Balranald nature reserve.</p>\n<p class=\"noindenta\">A 40-minute ferry journey south from Eriskay (the real Whisky Galore island) brings you to beautiful Barra, a popular island with a strong Hebridean character, where more than half of the population still speak Gaelic. Joined to its southern end by a causeway is the peaceful and remote isle of Vatersay, which is so deeply indented by the sea on both sides that only a narrow strip of land prevents it separating into two. Both islands, like the Uists, offer plenty of opportunities for wild camping or longer breaks in charming, traditional self-catering cottages. The ‘long chain’ is also a popular route with cyclists, who can stop overnight at many of the great hostels and campsites along the way.</p>\n<p class=\"noindenta\">The best time to visit is in May or June; this is before the midges arrive, when the machair is in bloom and you’re most likely to have sunshine as you take in the glowing expanses of white sand and bright azure sea at some of the most wonderful beaches in Britain.</p>\n<p id=\"calibre_pb_2\" class=\"noindentp\"><strong class=\"calibre4\">A journey to the northernmost islands in the Outer Hebrides – Lewis and Harris and St Kilda – is a memorable experience at any time of year. These isolated, windswept and mostly treeless islands hold some of the most outstanding landscapes in the world.</strong></p>\n<p class=\"noindenta\">Begin your Hebridean adventure by sailing to the principle island, Lewis and Harris. Commonly taken for two islands, it is in fact just one, but of two distinct characters. The northern part, Lewis, is largely a low-lying land of pool-mottled peat bogs, although it also contains Stornoway, the most populous town in the Hebrides and the centre of Gaelic culture and speech. The island is home to a lively working population with strong traditional and religious values. Many of the islanders belong to one of the five Presbyterian churches and you’ll still find that almost all shops are closed on Sundays.</p>\n<p class=\"noindenta\">As you travel south into Harris there’s a dramatic shift in the terrain. The landscapes suddenly become wild and rugged, the expanses of flat moorlands broken up by dark mountains and surrounded by spectacular beaches. A great place to experience all of these is at Losgaintir, where miles of pristine white sand and glassy azure-green water contrast with more distant views of the forbidding North Harris mountains.</p>\n<p class=\"noindenta\">Both areas are full of ancient treasures: step inside the magically reconstructed Iron Age house at Bosta or spend the night in one of the traditional blackhouses at Gearrannan. You can swim here before watching the sun set over the bay where women and children would have waited anxiously for their men to return from sea on small fishing boats.</p>\n<p class=\"noindenta\">If you visit between April and September and the weather is on your side, you might also make the long, rough boat journey to the islands on ‘the edge of the world’, the exceptionally isolated archipelago of St Kilda. These islands, lying over 100 miles west of the mainland, form one of a very few World Heritage Sites to hold status for both natural and cultural merits. They have a truly fascinating history and boast breathtakingly dramatic scenery, with a series of staggering, dark sea stacks scattered in the sea around towering cliffs. These host puffins, petrels and gannets, while rare-breed sheep descended from ancient flocks survive on the islands. You might have to make a few attempts to get there, but visiting these islands is a truly powerful experience and one you will never forget.</p>",
+            "image": "https://adrenalinemie.github.io/media/posts/5/DSC01982.JPG",
+            "author": {
+                "name": "Adrien and Melanie"
+            },
+            "tags": [
+                   "Scotland 2020"
+            ],
+            "date_published": "2020-10-04T21:57:27+01:00",
+            "date_modified": "2020-10-04T22:36:55+01:00"
+        },
+        {
+            "id": "https://adrenalinemie.github.io/trossachs-and-argyll.html",
+            "url": "https://adrenalinemie.github.io/trossachs-and-argyll.html",
+            "title": "The Trossachs and Argyll",
+            "summary": "Go west to explore a gloriously diverse area of luxuriant glens, lush forests and gardens, rolling hills and mountains, sparkling sea lochs and unspoilt beaches. Rich in biodiversity, Argyll has some of the best land, coastal and freshwater habitats and species in the country. Head up the A83 past the&hellip;",
+            "content_html": "<p id=\"calibre_pb_2\" class=\"noindentp\"><strong class=\"calibre4\">Go west to explore a gloriously diverse area of luxuriant glens, lush forests and gardens, rolling hills and mountains, sparkling sea lochs and unspoilt beaches. Rich in biodiversity, Argyll has some of the best land, coastal and freshwater habitats and species in the country.</strong></p>\n<p class=\"noindenta\">Head up the A83 past the rugged Arrochar Alps and through the famous Rest and Be Thankful pass into Argyll Forest Park. Established in 1935, this is Britain’s oldest forest park, and within it there are stunning fertile landscapes to explore, such as the mesmerizing Puck’s Glen where, dripping ferns hang off the rocky gorge walls and a peaceful burn tumbles downstream.</p>\n<p class=\"noindenta\">In spring and summer much of the landscape erupts with colour – bluebells flood the lichen-and-moss-carpeted woodland floors, and rhododendrons bloom creating vibrant banks of colour amongst the trees of Black Gates Forest and the stunning hillside and coastal gardens of Crarae and Arduaine.</p>\n<p class=\"noindenta\">Make your way to Oban, the bustling ‘seafood capital of Scotland’ and sample delicious freshly caught shellfish at the famous green Oban Seafood Hut by the pier. From here follow the coast south and cross the perfect stone arch of the ‘bridge over the Atlantic’, which is hung with fairy foxgloves in summer, and you will soon arrive at the slate island of Seil. Whitewashed stone cottages are lined up by the harbour, where you can jump on the tiny ferry to charming Easdale and swim in the magnificent turquoise pools that lie in the old quarries, surrounded by glorious views of the blue sea and the Isle of Mull.</p>\n<p class=\"noindenta\">Further south, below the National Scenic Area of Knapdale, lies the Kintyre peninsula – a less dramatic landscape perhaps, but its coastline carries both long beaches and dunes like Machrihanish and calm bays like Carradale, whose shallow waters are great for bathing on sunny days. From Tayinloan on the west coast, take your bike on the ferry to the delightful Gigha Island to enjoy quality local food by Ardminish Bay before cycling north to the idyllic Twin Beaches, where there is glorious turquoise water to swim in and carpets of wildflowers nudging the sand in spring.</p>\n<p id=\"calibre_pb_2\" class=\"noindentp\"><strong class=\"calibre4\">This stunning region, stretching from Balloch in the south to Killin the north, is long revered in poetry, prose, art and song. It was immortalised in Sir Walter Scott’s tales of Rob Roy MacGregor and his epic poem ‘The Lady of the Lake’. This was Scotland’s first National Park, and remains one of only two in the country today, the other being the Cairngorms. Here where the Highland Boundary Fault rears up the landscape changes from Highland to Lowland. Stand atop Conic Hill and look down the spine of islands lined up in Loch Lomond – that is the line of the geological fault responsible for the entire Highland landscape. This is an easily accessible region, and so something of a magnet for tourists and outdoor lovers looking to escape the Central Belt.</strong></p>\n<p class=\"noindenta\">The Trossachs, ‘the Highlands in miniature’, border the park to the east. They form a photogenic area of sparkling lochs and steep-sided valleys, winding to a climax at Loch Katrine, one of the best in the country. Loch Lomond is the heart of the territory, the largest freshwater loch in the UK, long and snaking and dotted with many enticing islands. North-east of Loch Lomond lies the bulky, mountainous land of Breadalbane, ‘Land of the Giants’.</p>\n<p class=\"noindenta\">Being a national park, the area is bursting with opportunities; just about any outdoor activity can be indulged in here. Wild swimming is particularly good in the Trossachs, where it is not uncommon to see many people out enjoying the lochs on a summer’s evening. Walking is excellent here, with the best-known long distance trail in the country, the West Highland Way, passing right through the middle of the region. Boating and canoeing are also extremely popular on Loch Lomond and in the Trossachs, where the leafy little islands are great to pull up on for lunch.</p>\n<h2>Day 1: </h2>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/4/gallery/DSC01776.JPG\" data-size=\"4896x3672\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/4/gallery/DSC01776-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adrenalinemie.github.io/media/posts/4/gallery/DSC01784.JPG\" data-size=\"4896x3672\"><img loading=\"lazy\" src=\"https://adrenalinemie.github.io/media/posts/4/gallery/DSC01784-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>\n<p> </p>",
+            "image": "https://adrenalinemie.github.io/media/posts/4/DSC01874.JPG",
+            "author": {
+                "name": "Adrien and Melanie"
+            },
+            "tags": [
+                   "Scotland 2020"
+            ],
+            "date_published": "2020-10-04T21:56:44+01:00",
+            "date_modified": "2020-10-06T22:32:11+01:00"
+        }
+    ]
+}
